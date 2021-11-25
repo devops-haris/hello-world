@@ -3,3 +3,6 @@ Hello Artifactory and Sonar
 Testing CI!
 
 Testing Again!
+
+
+Testing Slave!
